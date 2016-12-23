@@ -36,6 +36,10 @@ This command will create `helloworld.beam` file.
 erl -noshell -s helloworld start -s init stop
 ```
 
+IDE
+---
+http://ignatov.github.io/intellij-erlang/
+
 References
 ----------
 
